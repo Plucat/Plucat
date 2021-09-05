@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Plucat
-- 👀 I’m interested in game developing and programming
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in crypto currenciesand programming
+- 🌱 I’m currently learning Nfts
 - 💞️ I’m looking to collaborate on nothing yet...
-- 📫 How to reach me:my discord Plucat#7966
+- 📫 How to reach me with discord Plucat#7966
 
 <!---
 Plucat/Plucat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
