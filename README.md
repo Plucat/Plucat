@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Plucat
-- 👀 I’m interested in nfy and programming
-- 🌱 I’m currently learning how to make a nft collection
-- 💞️ I’m looking to collaborate on a nft collection of whatever type
-- 📫 How to reach me with discord Plucat#7966
+- 👀 I’m currently learning front end
+- 📫 How to reach me: discord Plucat#2626
 
 <!---
 Plucat/Plucat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
