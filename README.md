@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plucat
-- 👀 I’m currently learning front end
-- 📫 How to reach me: discord Plucat#2626
+- 
+- 📫 How to reach me: discord Plucat
 
 <!---
 Plucat/Plucat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
